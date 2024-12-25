@@ -57,6 +57,3 @@ cd edgeledger
 - Inspired by the need for accessible financial planning tools.
 - Thanks to all contributors and users for their valuable feedback.
 
-## ✨ Demo
-Add a live demo link here if deployed, e.g., Netlify, Vercel, or GitHub Pages.
-
